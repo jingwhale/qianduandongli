@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[freeaddon_fm.plugin]]></item>
+	<item id="RevisionID"><![CDATA[33684]]></item>
+	<item id="SN"><![CDATA[2015030317oFgQjJPi64]]></item>
+	<item id="RevisionDateline"><![CDATA[1396490401]]></item>
+	<item id="Data">
+		<item id="/addon.inc.php"><![CDATA[e33b688b18f26bdca886ba7ad7eff573]]></item>
+		<item id="/changelog.inc.php"><![CDATA[7d468385112d006d72d9235c6c5bcc44]]></item>
+		<item id="/check.php"><![CDATA[69ac7eb4098a7f304dd12a3edcc21703]]></item>
+		<item id="/demo.php"><![CDATA[a5dec7291757079d0909d650f853afe9]]></item>
+		<item id="/discuz_plugin_freeaddon_fm_SC_GBK.xml"><![CDATA[ebe243915f5c1113c4d4f1952a5200a4]]></item>
+		<item id="/discuz_plugin_freeaddon_fm_SC_UTF8.xml"><![CDATA[80438c048a4d9910f9df59cea01d942b]]></item>
+		<item id="/discuz_plugin_freeaddon_fm_TC_BIG5.xml"><![CDATA[0bb0250ff4f58b2e668ccc7629493776]]></item>
+		<item id="/discuz_plugin_freeaddon_fm_TC_UTF8.xml"><![CDATA[86d435300b7017b80d44cfe4b98729f7]]></item>
+		<item id="/faq.inc.php"><![CDATA[79e41eede4fb221ac2ce6988c49deaef]]></item>
+		<item id="/feedback.inc.php"><![CDATA[96b1473f59439a2d47aa476ab5b9e5e7]]></item>
+		<item id="/freeaddon_fm.inc.php"><![CDATA[75832fe76854d205b56937c27622f240]]></item>
+		<item id="/images/common.js"><![CDATA[3b3bce897d47e0fb0d0dde6849017fb8]]></item>
+		<item id="/images/dl.png"><![CDATA[1ba0e2c37bb0a931520a380868f7e3ac]]></item>
+		<item id="/images/faq.gif"><![CDATA[2016bd6b1d980e1609ecad8d4c40085b]]></item>
+		<item id="/images/fm.html"><![CDATA[35bea7bb166223d271f94ad3bc49a556]]></item>
+		<item id="/images/icon.png"><![CDATA[4be5835b5c15ae03baf606281ce602cf]]></item>
+		<item id="/images/index.htm"><![CDATA[62c15f464b271e14a3c9d359fb7db5ee]]></item>
+		<item id="/images/index.html"><![CDATA[62c15f464b271e14a3c9d359fb7db5ee]]></item>
+		<item id="/images/jquery.js"><![CDATA[4d30fceb0a9da287c6f802ea05b69e3b]]></item>
+		<item id="/images/main.css"><![CDATA[255505206c01b8f2cc6ce28f4287f111]]></item>
+		<item id="/images/main_bg.png"><![CDATA[06a8bca2bd5a0325ebbdc7d88005cba4]]></item>
+		<item id="/images/tab.png"><![CDATA[707fd59f96cbbadf3743f71696bcb828]]></item>
+		<item id="/images/theme-1.jpg"><![CDATA[a0abc5295632da7e7c0a1c5add6abfaa]]></item>
+		<item id="/images/theme-10.jpg"><![CDATA[f48fb9cfae4a0ce765143ed178300959]]></item>
+		<item id="/images/theme-2.jpg"><![CDATA[e8e4382342b557062b371856a8138cda]]></item>
+		<item id="/images/theme-3.jpg"><![CDATA[643b5d1a19128fe54bd9f37205406115]]></item>
+		<item id="/images/theme-4.jpg"><![CDATA[846b917d20dad6eeea6b862b0baa97e5]]></item>
+		<item id="/images/theme-5.jpg"><![CDATA[27f824a9b6abbdb760fc77977950b762]]></item>
+		<item id="/images/theme-6.jpg"><![CDATA[0359e7513c9843e7af3bfc332d2c661c]]></item>
+		<item id="/images/theme-7.jpg"><![CDATA[1d4e855f6372a513220f506b420cbe50]]></item>
+		<item id="/images/theme-8.jpg"><![CDATA[4e2dd5b563509274291b2165927b3047]]></item>
+		<item id="/images/theme-9.jpg"><![CDATA[477bc075259c4b315f59250f6b64bf53]]></item>
+		<item id="/index.htm"><![CDATA[62c15f464b271e14a3c9d359fb7db5ee]]></item>
+		<item id="/index.html"><![CDATA[62c15f464b271e14a3c9d359fb7db5ee]]></item>
+		<item id="/install.php"><![CDATA[e349b93b3bd816fcf2e6483b898af7d2]]></item>
+		<item id="/installlang.lang.php"><![CDATA[4a0dd27f7c177fdfdeff5d96d085d42d]]></item>
+		<item id="/pluginvar.func.php"><![CDATA[cc1a75ede048aa1713ec63c5c88e1f79]]></item>
+		<item id="/template/faq.htm"><![CDATA[2b4a14a9fb5a4d5e4bd5a5a4f1ae1ecd]]></item>
+		<item id="/template/fm.htm"><![CDATA[ee2cb71bbc6dcba92c734337bb6a1fb5]]></item>
+		<item id="/template/index.htm"><![CDATA[62c15f464b271e14a3c9d359fb7db5ee]]></item>
+		<item id="/template/index.html"><![CDATA[62c15f464b271e14a3c9d359fb7db5ee]]></item>
+		<item id="/thank.inc.php"><![CDATA[54d68b49fa63dfe74f8817f7615c9d7b]]></item>
+		<item id="/uninstall.php"><![CDATA[6cf6e7e122d18344db7c982640f66f17]]></item>
+		<item id="/upgrade.php"><![CDATA[e349b93b3bd816fcf2e6483b898af7d2]]></item>
+	</item>
+</root>

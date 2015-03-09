@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[dbank.plugin]]></item>
+	<item id="RevisionID"><![CDATA[10701]]></item>
+	<item id="SN"><![CDATA[2015030318GrLQYg78t3]]></item>
+	<item id="RevisionDateline"><![CDATA[1378994404]]></item>
+	<item id="Data">
+		<item id="/dbank_attachment.php"><![CDATA[f636d21b54082f797f83b09e196ee888]]></item>
+		<item id="/dbank_plugin.js"><![CDATA[5ca763c4daf6ca8dbd303269e4a99ade]]></item>
+		<item id="/discuz_plugin_dbank_SC_GBK.xml"><![CDATA[c8036b441dfa0bb5552d62673d69a0c0]]></item>
+		<item id="/discuz_plugin_dbank_SC_UTF8.xml"><![CDATA[767090cf37008abb68546b62367c2ecf]]></item>
+		<item id="/discuz_plugin_dbank_TC_BIG5.xml"><![CDATA[4e47b5f3ba77b06418c68abc1e0493e6]]></item>
+		<item id="/discuz_plugin_dbank_TC_UTF8.xml"><![CDATA[f1fdaa87d422ef9051f6239435344eb1]]></item>
+		<item id="/hook.class.php"><![CDATA[e7ba314583d25bf30075778d4484e3b8]]></item>
+		<item id="/install.php"><![CDATA[319683293a6e9e16de0e71f90e165156]]></item>
+		<item id="/proxy.html"><![CDATA[d495e67fdcdc066b78ebdd99034719b3]]></item>
+		<item id="/uninstall.php"><![CDATA[4393e71366d4cbe0bc4db120f94edeec]]></item>
+	</item>
+</root>
